@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "aa5f2fa6272224c62d19b2b0509374944e1c6d0a080c03383e024ed55738f8f7"
+build_start_time: [1676124957, 795009136]
+build_end_time: [1676124958, 253261089]
+inputs:
+  "/Users/ravi/Documents/iOSDemos/iOS Demos/CircularProgressView/CircularProgressView/AppDelegate.swift": [1676124174, 105331897]
+  "/Users/ravi/Documents/iOSDemos/iOS Demos/CircularProgressView/CircularProgressView/CircularProgressView.swift": [1676124580, 570856571]
+  "/Users/ravi/Documents/iOSDemos/iOS Demos/CircularProgressView/CircularProgressView/SceneDelegate.swift": [1676124174, 108895778]
+  "/Users/ravi/Documents/iOSDemos/iOS Demos/CircularProgressView/CircularProgressView/ViewController.swift": [1676124955, 549982070]
